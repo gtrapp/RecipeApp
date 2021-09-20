@@ -1,0 +1,23 @@
+logs/
+*.log
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore all text files
+*.txt
+
+# Ignore SASS config files
+.sass-cache
+
+# npm init files
+package-lock.json
+package.json
+
+#node modules folder
+node_modules
+
+
+
+src/sass/_upload.scss
+
